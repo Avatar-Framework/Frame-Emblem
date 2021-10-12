@@ -1,0 +1,6 @@
+# Smap
+*.smap
+*.smap.config
+
+# Davinci Api Wrap
+davinci-api-wrap-master/
